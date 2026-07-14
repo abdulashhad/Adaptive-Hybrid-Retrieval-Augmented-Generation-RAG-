@@ -50,7 +50,7 @@ Top-k Evaluation
 |     5 | 0.72 |         0.71 |   0.80 |        **0.80** |
 |     7 | 0.72 |         0.69 |   0.81 |        **0.83** |
 
-![Effect of Top-k](Images/Effect of Top-k.png)
+![Effect of Top-k](Images/Top-k.png)
 
 **Query Routing Performance**
 The rule-based query analyzer achieved **84% routing accuracy**, enabling dynamic selection between LLM-only, Standard RAG, and Adaptive Hybrid RAG based on query characteristics.
