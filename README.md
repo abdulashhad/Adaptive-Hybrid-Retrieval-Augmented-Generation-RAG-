@@ -63,16 +63,19 @@ Learning-based query routing
 Cross-encoder re-ranking
 
 **Project Structure**
-Adaptive-Hybrid-RAG
+## Project Structure
+
+```text
+Adaptive-Hybrid-RAG/
 │
 ├── data/
 ├── modules/
 │   ├── router/
 │   ├── rag/
-│   ├── llm/
-│
-|__ Images
+│   └── llm/
+├── images/
 ├── docs/
 ├── main.py
 ├── requirements.txt
 └── README.md
+```
