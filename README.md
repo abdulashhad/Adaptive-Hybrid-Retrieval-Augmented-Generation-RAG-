@@ -14,8 +14,10 @@ LLM-based re-ranking
 Performance evaluation using keyword and semantic similarity metrics
 
 **System Architecture**
+![System Architecture](Images/Architecture.png)
 
 **Workflow**
+![WorkFlow](Images/Workflow.png)
 
 | Component            | Technology                          |
 | -------------------- | ----------------------------------- |
@@ -48,6 +50,7 @@ Top-k Evaluation
 |     5 | 0.72 |         0.71 |   0.80 |        **0.80** |
 |     7 | 0.72 |         0.69 |   0.81 |        **0.83** |
 
+![Effect of Top-k](Images/Effect of Top-k.png)
 
 **Query Routing Performance**
 The rule-based query analyzer achieved **84% routing accuracy**, enabling dynamic selection between LLM-only, Standard RAG, and Adaptive Hybrid RAG based on query characteristics.
@@ -68,6 +71,7 @@ Adaptive-Hybrid-RAG
 │   ├── rag/
 │   ├── llm/
 │
+|__ Images
 ├── docs/
 ├── main.py
 ├── requirements.txt
