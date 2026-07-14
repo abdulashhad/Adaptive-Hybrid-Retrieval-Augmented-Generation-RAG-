@@ -1,0 +1,1 @@
+AI plays a crucial role in predicting and managing epidemics. Machine learning models analyze data from multiple sources, including social media, travel patterns, and healthcare records, to forecast disease outbreaks. Early predictions enable governments and healthcare organizations to take preventive measures and control the spread of diseases.

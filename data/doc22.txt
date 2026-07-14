@@ -1,0 +1,1 @@
+Artificial Intelligence is used in cybersecurity to detect threats and prevent attacks. AI systems monitor network traffic and identify suspicious activities. Machine learning models can detect malware and phishing attempts. These systems provide real-time protection and adapt to new types of cyber threats.

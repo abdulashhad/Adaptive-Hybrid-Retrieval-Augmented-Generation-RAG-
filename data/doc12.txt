@@ -1,0 +1,1 @@
+AI models have been successfully used in detecting pneumonia from chest X-ray images. Deep learning models such as convolutional neural networks can identify patterns that are difficult for humans to detect, improving diagnostic accuracy.

@@ -1,0 +1,1 @@
+Machine Learning (ML) is a subset of Artificial Intelligence that focuses on learning patterns from data. ML algorithms improve automatically through experience without being explicitly programmed. It is widely used in predictive analytics, fraud detection, and recommendation systems.

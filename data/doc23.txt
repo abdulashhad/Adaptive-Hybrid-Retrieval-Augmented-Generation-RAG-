@@ -1,0 +1,1 @@
+AI enables robots to perform complex tasks such as object manipulation and navigation. Machine learning and computer vision allow robots to understand their environment. AI-powered robots are used in manufacturing, healthcare, and logistics to automate repetitive tasks and improve efficiency.

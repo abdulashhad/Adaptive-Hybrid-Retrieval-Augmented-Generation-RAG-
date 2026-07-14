@@ -1,0 +1,1 @@
+AI is used in agriculture for crop monitoring, disease detection, and yield prediction. Machine learning models analyze satellite images and sensor data to identify crop health issues. AI helps farmers make better decisions regarding irrigation, fertilization, and harvesting, improving productivity and sustainability.

@@ -1,0 +1,1 @@
+Remote patient monitoring systems use AI to track patient health in real time. Wearable devices collect data such as heart rate, blood pressure, and activity levels. AI models analyze this data to detect abnormalities and alert healthcare providers. This is particularly useful for managing chronic diseases and ensuring continuous care without requiring frequent hospital visits.

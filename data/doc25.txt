@@ -1,0 +1,1 @@
+AI is being used to support mental health care through applications such as virtual therapists and emotion recognition systems. Machine learning models analyze speech, text, and facial expressions to detect signs of stress, depression, and anxiety. AI tools provide early intervention and continuous support, making mental health services more accessible.

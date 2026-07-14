@@ -1,0 +1,1 @@
+Natural Language Processing enables AI-powered chatbots to understand and respond to human language. These chatbots are used in customer support, virtual assistants, and online services. NLP models analyze user queries and generate appropriate responses, improving user experience and reducing response time.

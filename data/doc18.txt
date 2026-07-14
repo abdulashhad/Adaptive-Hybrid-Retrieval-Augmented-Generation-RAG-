@@ -1,0 +1,1 @@
+Artificial Intelligence plays a critical role in autonomous vehicles. AI systems process data from sensors such as cameras, radar, and lidar to understand the environment. Deep learning models are used for object detection, lane recognition, and decision-making. Autonomous vehicles rely on AI to navigate safely and avoid collisions.

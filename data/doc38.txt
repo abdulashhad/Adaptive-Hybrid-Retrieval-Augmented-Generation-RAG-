@@ -1,0 +1,12 @@
+documents = [
+
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and perform tasks such as learning, reasoning, and problem solving.
+Machine Learning is a subset of Artificial Intelligence that focuses on developing algorithms that allow computers to learn patterns from data and make predictions without being explicitly programmed.
+Deep Learning is a subset of machine learning that uses neural networks with multiple layers to learn complex representations of data.
+Supervised learning is a machine learning approach where models are trained using labeled data. It is commonly used for classification and regression tasks.
+Unsupervised learning is a type of machine learning where models identify patterns in unlabeled data. Clustering is a common example of unsupervised learning.
+Neural networks are computational models inspired by the human brain. They consist of layers of interconnected nodes that process information.
+Convolutional Neural Networks (CNNs) are deep learning models designed for image processing tasks. They use convolution operations to detect patterns in images.
+Recurrent Neural Networks (RNNs) are used for sequential data such as text or time series. They retain information from previous inputs.
+Gradient descent is an optimization algorithm used to minimize the loss function by updating model parameters iteratively.
+Batch gradient descent uses the entire dataset to compute gradients, while stochastic gradient descent updates parameters using one data point at a time.",

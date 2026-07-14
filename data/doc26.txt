@@ -1,0 +1,1 @@
+Clinical decision support systems use AI to help doctors make informed decisions. These systems analyze large amounts of medical data, including patient records and research studies, to provide recommendations. AI can suggest diagnoses, treatment options, and potential risks, improving the accuracy and efficiency of healthcare delivery.

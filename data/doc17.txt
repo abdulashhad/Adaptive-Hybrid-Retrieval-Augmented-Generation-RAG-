@@ -1,0 +1,1 @@
+In financial systems, AI is used for fraud detection by analyzing transaction patterns. Machine learning models can identify unusual behavior such as sudden large transactions or deviations from normal spending habits. These systems continuously learn from new data and improve over time. AI-based fraud detection reduces financial losses and enhances security in banking systems.

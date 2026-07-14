@@ -1,0 +1,1 @@
+Artificial Intelligence in healthcare is used for disease diagnosis, medical imaging, and personalized treatment. AI models can analyze X-rays and detect diseases like pneumonia and cancer. It also helps doctors in decision making.

@@ -1,0 +1,1 @@
+Machine Learning and Deep Learning are related fields within Artificial Intelligence. Machine Learning uses simpler models and requires feature engineering, while Deep Learning uses complex neural networks and automatically extracts features from data. Deep Learning generally performs better on large datasets.

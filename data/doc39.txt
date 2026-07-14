@@ -1,0 +1,10 @@
+Overfitting occurs when a machine learning model learns the training data too well and fails to generalize to unseen data.
+Feature engineering is the process of transforming raw data into meaningful features that improve the performance of machine learning models.
+Transfer learning involves using a pretrained model on a new task, reducing the need for large datasets and training time.
+Activation functions introduce non-linearity into neural networks, allowing them to learn complex patterns.
+Vanishing gradient problem occurs when gradients become very small during backpropagation, making it difficult to train deep neural networks.
+In healthcare, AI is used for diagnosis, treatment planning, and improving patient outcomes using data-driven approaches.
+Classification is a machine learning task that predicts discrete labels, while regression predicts continuous values.
+Data preprocessing includes cleaning, normalization, and transformation of raw data to improve model performance.
+Machine learning algorithms include decision trees, support vector machines, and neural networks, which are used for prediction and pattern recognition.
+Deep learning performs well on complex tasks such as image recognition and natural language processing due to its ability to learn hierarchical features.
